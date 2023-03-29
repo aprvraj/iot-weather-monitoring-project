@@ -1,9 +1,13 @@
 # Arduino Weather monitoring and Logging into sqlite3 database
-![image](https://ik.imagekit.io/aprvraj/dht11_project_arduino/image1.jpeg)
+------------------
+
+<img src="https://ik.imagekit.io/aprvraj/dht11_project_arduino/image1.jpeg" width="50%"><br/>
 Fig: Schematic Diagram
+<br/><br/>
 
-![image](https://ik.imagekit.io/aprvraj/dht11_project_arduino/image2.png)
+<img src="https://ik.imagekit.io/aprvraj/dht11_project_arduino/image2.png" width="50%"><br/>
 Fig: Serial Monitor Arduino
+<br/><br/>
 
-![image](https://ik.imagekit.io/aprvraj/dht11_project_arduino/image3.png)
+<img src="https://ik.imagekit.io/aprvraj/dht11_project_arduino/image3.png" width="50%"><br/>
 Fig: DB connected
